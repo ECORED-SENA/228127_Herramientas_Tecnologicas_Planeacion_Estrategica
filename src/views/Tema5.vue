@@ -64,7 +64,7 @@
           tbody
             tr(style="background-color:#E8F2F6;")
               td.p-5.text-center(style="border:0;border-right:1px #AFAFAF solid;") Se ocupa del vocabulario y los principios básicos para que las empresas y clientes hablen el mismo idioma.
-              td.p-5.text-center(style="border:0;border-right:1px #AFAFAF solid;") Define los requisitos y lineamientos de cumplimiento que establecerá la empresa para garantizar la calidad
+              td.p-5.text-center(style="border:0;border-right:1px #AFAFAF solid;") Define los requisitos y lineamientos de cumplimiento que establecerá la empresa para garantizar la calidad.
               td.p-5.text-center(style="border:0;") Promueve el mejoramiento continuo de las prácticas y otros procesos de la empresa.
 
     p.mt-5(data-aos="fade-up") La finalidad general de la aplicación de las normas ISO 9001 es lograr que las empresas consigan niveles de calidad sostenible y la satisfacción del cliente, mediante el establecimiento de los procesos y una mejora continua periódica.

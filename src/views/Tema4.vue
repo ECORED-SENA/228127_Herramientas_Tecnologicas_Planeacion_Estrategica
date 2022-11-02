@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Modelos administrativos
+      h1 Modelos de gestión
 
     figure
       img(src="@/assets/curso/tema4/1.png" data-aos="zoom-in-up")
@@ -103,9 +103,9 @@
     Separador.mt-5
 
     .titulo-segundo
-      h2#t_4_2 4.2  Balanced Scorecard (BSC)
+      h2#t_4_2 4.2  #[em Balanced Score Card] (BSC)
 
-    p(data-aos="fade-up") El Balanced ScoreCard es un modelo o herramienta de gestión empresarial que convierte la visión o el objetivo a más largo plazo que tiene la empresa en acciones explícitas, mediante un conjunto de indicadores de gestión divididos en cuatro categorías o perspectivas que deben regir la empresa u organización; estas perspectivas son las siguientes:
+    p(data-aos="fade-up") El #[em Balanced Score Card] es un modelo o herramienta de gestión empresarial que convierte la visión o el objetivo a más largo plazo que tiene la empresa en acciones explícitas, mediante un conjunto de indicadores de gestión divididos en cuatro categorías o perspectivas que deben regir la empresa u organización; estas perspectivas son las siguientes:
 
     TabsC.color-acento-botones.mt-5
       .pt-5(titulo="Financiera" style="background-color:#D9E9F1;")
@@ -154,7 +154,7 @@
 
     .titulo-sexto.color-acento-contenido.mt-5
       h5 Figura 12.
-      span Modelo de Balanced Scorecard para la gestión empresarial.
+      span Modelo de #[em Balanced Score Card] para la gestión empresarial.
     figure.mt-4
       img(src="@/assets/curso/tema4/12.svg" data-aos="zoom-in-up")
 
@@ -284,7 +284,7 @@
       .tarjeta.color-acento-contenido.p-3(x="46%" y="26%" numero="+" style="background-color:#fff;border:1px #3185AF solid;")
         p.mb-0 Definir los momentos de seguimiento, control y evaluación con el fin de identificar posibles desviaciones.
       .tarjeta.color-acento-contenido.p-3(x="54%" y="26%" numero="+" style="background-color:#fff;border:1px #3185AF solid;")
-        p.mb-0 Requisitos #[br] Demandas  #[br] Productos  #[br] Servicios a obtener #[br] Proveedores.  #[br] #[br] En procesos iniciales, el proveedor es de naturaleza externa; en los demás procesos regularmente los proveedores son los resultados de otros procesos de la empresa.
+        p.mb-0 Requisitos #[br] Demandas  #[br] Productos  #[br] Servicios a obtener #[br] Proveedores  #[br] #[br] En procesos iniciales, el proveedor es de naturaleza externa; en los demás procesos regularmente los proveedores son los resultados de otros procesos de la empresa.
       .tarjeta.color-acento-contenido.p-3(x="59%" y="39%" numero="+" style="background-color:#fff;border:1px #3185AF solid;")
         p.mb-0 Conjunto de actividades, ordenados lógica y secuencialmente en un diagrama de flujo de proceso, que se construye por bloques. 
       .tarjeta.color-acento-contenido.p-3(x="59%" y="59%" numero="+" style="background-color:#fff;border:1px #3185AF solid;")

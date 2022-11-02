@@ -297,7 +297,7 @@
       .col.ps-0(style="place-self:center")
         h4.mb-0(data-aos="fade-up") Matriz BCG
 
-    p.mt-4(data-aos="fade-up") La matriz Boston Consulting Group (BCG, por sus siglas en inglés) es una herramienta desarrollada para el análisis gráfico del portafolio de productos, a partir de la posición que ocupa dentro de una empresa cada producto y su tendencia, con el fin de tomar decisiones para cada uno de estos, en búsqueda de la maximización de utilidades y beneficios.
+    p.mt-4(data-aos="fade-up") La matriz Boston #[em Consulting Group] (BCG, por sus siglas en inglés) es una herramienta desarrollada para el análisis gráfico del portafolio de productos, a partir de la posición que ocupa dentro de una empresa cada producto y su tendencia, con el fin de tomar decisiones para cada uno de estos, en búsqueda de la maximización de utilidades y beneficios.
 
     .cajon.color-acento-contenido.p-5.mt-4(style="background-color:#FEF4E1;")
       p.mb-0(data-aos="fade-up") Es una matriz de cuatro cuadrantes, en cada uno se establece una figura o ícono, que obedece a las características de comportamiento de las líneas de producto o los productos en sí. En el caso de los productos o servicios, se puede realizar una por cada tipo de producto y su mercado, se podrán comparar entre sí, los servicios se comparan aparte, para mantener un equilibrio de comparación, ya que los lotes de inversión son diferentes.
@@ -707,7 +707,7 @@
                   h5.mb-3.text-white Herramientas estadísticas básicas de la calidad de Pablo Gregori
                   p.text-white Para alcanzar la calidad hay que alcanzar unos objetivos y valorar la consecución de los mismos, en este caso se verá en : Herramientas estadísticas básicas de la calidad de Pablo Gregor.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="www3.uji.es/~gregori/docencia/mt1021-1516/tema5-herramientas-pablo.html" target="_blank")
+                  a.boton.color-acento-botones(href="https://www3.uji.es/~gregori/docencia/mt1021-1516/tema5-herramientas-pablo.html" target="_blank")
                     span Enlace web
                     i.fas.fa-link
 
@@ -727,7 +727,7 @@
       .col-lg-8(style="place-self:center")
         p(data-aos="fade-up") Los indicadores de gestión son los instrumentos a través de los cuales la empresa mide sus desempeños en las diferentes funciones, actividades que desarrolla y que contrasta con los resultados esperados y fijados desde una planeación. Facilitan la evaluación de los niveles de cumplimiento o desviación de los logros o actividades a realizar frente a estos resultados. 
 
-    p.mt-5(data-aos="fade-up") Un indicador de gestión Key Performance Indicator (KPI, por sus siglas en inglés) representa la forma de medir si una función, proyecto, actividad, área funcional, unidad de negocio o la persona encargada están logrando las metas y objetivos o resultados esperados.
+    p.mt-5(data-aos="fade-up") Un indicador de gestión #[em Key Performance Indicator] (KPI, por sus siglas en inglés) representa la forma de medir si una función, proyecto, actividad, área funcional, unidad de negocio o la persona encargada están logrando las metas y objetivos o resultados esperados.
     p.mt-4(data-aos="fade-up") Se deben utilizar indicadores de gestión en todos los niveles empresariales para evaluar el desempeño y lo establecido como metas en la planeación de la gestión empresarial. A continuación, puede revisar algunos ejemplos:
 
     .col-lg-10.m-auto.mt-5
