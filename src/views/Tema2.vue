@@ -244,7 +244,7 @@
       p.mt-4(data-aos="fade-up" style="position:relative") Veamos el siguiente video que nos ilustra sobre los estilos de dirección empresarial:
       figure.mt-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/ZJQWV0t1feU" title="Estilos de dirección empresarial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     Separador.mt-5
 
