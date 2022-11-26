@@ -117,7 +117,7 @@
                 h5.mb-3.text-white Clasificación de clientes
                 p.text-white Para saber más sobre la clasificación de clientes, puede consultar este documento. 
               .col-sm-auto
-                a.boton.color-acento-botones(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                a.boton.color-acento-botones(:href="obtenerLink('downloads/anexoclasificacióndeclientes.pdf')" target="_blank")
                   span Descargar
                   i.fas.fa-file-download
 
@@ -741,7 +741,7 @@
                 h5.mb-3.text-white Indicadores de gestión
                 p.text-white Ejemplos de algunos indicadores de gestión aplicados a cada una de las áreas funcionales de la empresa.
               .col-sm-auto
-                a.boton.color-acento-botones(:href="obtenerLink('')" target="_blank")
+                a.boton.color-acento-botones(:href="obtenerLink('downloads/ejemplodealgunosindicadores.pdf')" target="_blank")
                   span Descargar
                   i.fas.fa-file-download
 

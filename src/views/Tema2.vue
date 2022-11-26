@@ -164,7 +164,7 @@
                   h5.mb-3.text-white Ejemplo de organización de áreas
                   p.text-white Le invitamos a revisar el siguiente ejemplo de organización de áreas, actividades y recursos en una empresa, que describe la técnica para la asignación y estimación de recursos y el desarrollo de las actividades.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('downloads/anexopresupuestorecursosb.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
         .tarjeta.color-primario.p-4.mt-4(style="background: rgb(12,83,118);background: linear-gradient(360deg, rgba(12,83,118,1) 0%, rgba(49,133,175,1) 53%);")
@@ -177,7 +177,7 @@
                   h5.mb-3.text-white Presupuesto de recursos administrativos por área o proceso
                   p.text-white Asimismo, si desea tener mayor detalle, consulte el documento Presupuesto de recursos administrativos por área o proceso, en el que puede evidenciar un modelo de organización. 
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('downloads/anexopresupuestorecursosb.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
       .col-lg-2(style="place-self:end")
