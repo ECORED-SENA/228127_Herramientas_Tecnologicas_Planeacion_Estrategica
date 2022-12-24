@@ -58,13 +58,13 @@
             .col-lg-9
               h5 Gestión administrativa estratégica
               p.mt-4 Busca identificar los avances y dificultades frente al logro y cumplimiento de los preceptos institucionales; esto es identificar si cuenta con una misión plenamente definida, con una Visión de a dónde se quiere llegar, objetivos y metas en ruta de esa visión, principios y valores empresariales; asimismo, si tiene establecidos manuales de procesos de procedimientos para la ejecución de las actividades, manuales de funciones para los integrante de la organización, en los que se establezcan los aportes y desempeños de cada empleado.
-        div(x="63%" y="33%" tooltip="Tecnología disponible" numero="+")
+        div(x="63%" y="33%" tooltip="Tecnología" numero="+")
           .row
             .col-lg-3.mb-4.mb-lg-0
               figure
                 img(src="@/assets/curso/tema3/5.svg")
             .col-lg-9
-              h5 Tecnología disponible
+              h5 Tecnología
               p.mt-4 Contar con recursos actualizados como software integrado para lograr un mayor desarrollo, se evalúa el plan de renovación, sustitución y mantenimientos.
         div(x="88%" y="33%" tooltip="Posición Financiera" numero="+")
           .row
@@ -74,21 +74,21 @@
             .col-lg-9
               h5 Posición Financiera
               p.mt-4 Se estudiarán los estados financieros como el Balance general, estado de resultados, flujo de caja, cartera y su ciclo, la concentración de la misma, cartera de proveedores, es el endeudamiento a corto o largo plazo, la calidad de la deuda, entre otros que considere cada empresa.
-        div(x="88.5%" y="64%" tooltip="Recursos humanos y organización" numero="+")
+        div(x="88.5%" y="64%" tooltip="Recursos humanos" numero="+")
           .row
             .col-lg-3.mb-4.mb-lg-0
               figure
                 img(src="@/assets/curso/tema3/7.svg")
             .col-lg-9
-              h5 Recursos humanos y organización
+              h5 Recursos humanos
               p.mt-4 Se analizan variables como la composición de la planta de personal, su estructura organización, tipos de contratación, percepción del clima laboral, nivel de salarios.
-        div(x="63.5%" y="64%" tooltip="Marketing y comunicación" numero="+")
+        div(x="63.5%" y="64%" tooltip="Marketing y mercadeo" numero="+")
           .row
             .col-lg-3.mb-4.mb-lg-0
               figure
                 img(src="@/assets/curso/tema3/8.svg")
             .col-lg-9
-              h5 Marketing y comunicación
+              h5 Marketing y mercadeo
               p.mt-4 Se analizarán todos aquellos factores referentes al marketing mix y a la comunicación tanto la realizada por los medios tradicionales, como la comunicación online a través de banners, redes sociales, blogs, portales, entre otros.
         div(x="38.5%" y="64%" tooltip="Procesos empresariales" numero="+")
           .row
@@ -98,13 +98,13 @@
             .col-lg-9
               h5 Procesos empresariales
               p.mt-4 Se evaluarán los ámbitos de gestión, métodos, procedimientos, los sistemas de información, los procesos en línea y automatización, si son eficaces y suficientes, junto con los factores referentes a la producción, la cadena de valor, definiendo o revisando la necesidad de capacidades potencial y real, incluyendo logística e innovación.
-        div(x="13.5%" y="64%" tooltip="Mercado de clientes" numero="+")
+        div(x="13.5%" y="64%" tooltip="Clientes" numero="+")
           .row
             .col-lg-3.mb-4.mb-lg-0
               figure
                 img(src="@/assets/curso/tema3/10.svg")
             .col-lg-9
-              h5 Mercado de clientes
+              h5 Clientes
               p.mt-4 Se estudiará el ámbito geográfico para ubicar la segmentación (características de los clientes), el posicionamiento o grado de recordación del producto o marca, la participación en el mercado o nivel de ventas, el modelo de negocio, los criterios de compra y factores de decisión, el censo de oferta o de competidores directos, clientes existentes, nuevos clientes potenciales, clientes insatisfechos, rotación de clientes, etc.
 
       .tarjeta.color-primario.p-4.mt-5(style="background: rgb(12,83,118);background: linear-gradient(360deg, rgba(12,83,118,1) 0%, rgba(49,133,175,1) 53%);")
@@ -117,7 +117,7 @@
                 h5.mb-3.text-white Clasificación de clientes
                 p.text-white Para saber más sobre la clasificación de clientes, puede consultar este documento. 
               .col-sm-auto
-                a.boton.color-acento-botones(:href="obtenerLink('downloads/anexoclasificacióndeclientes.pdf')" target="_blank")
+                a.boton.color-acento-botones(:href="obtenerLink('downloads/anexoclasificaciondeclientes.pdf')" target="_blank")
                   span Descargar
                   i.fas.fa-file-download
 
@@ -176,7 +176,7 @@
     Separador.mt-5
 
     .titulo-segundo
-      h2#t_3_2 3.2 Herramientas para el análisis de factores y variables internos y externos 
+      h2#t_3_3 3.3 Herramientas para el análisis de factores y variables internos y externos 
 
     p(data-aos="fade-up") En las empresas, el ejercicio administrativo y gerencial es fundamental para establecer y desarrollar las actividades, con el fin de alcanzar los objetivos deseados definidos en la planeación; esto requiere que en su ejecución se obtenga información del estado de avance de las operaciones internas, de las condiciones externas para el desarrollo del plan, lo que en síntesis permite identificar el estado actual que rodea la empresa u organización, lo que conlleva a unas conclusiones que se denominan diagnóstico. Por lo anterior, existe una serie de herramientas que soportan la gestión empresarial, para optimizar su desarrollo y orientar la toma de decisiones y la dirección efectiva de la empresa (Duque y Anzola, 2013). 
 
@@ -199,7 +199,7 @@
         h4.mb-0(data-aos="fade-up") Diagrama de Causa - Efecto
 
     p.mt-4(data-aos="fade-up") Es una herramienta para identificar de manera estructurada las causas o efecto de un problema evidenciado, a partir de un esquema gráfico que se asemeja a una espina de pescado como también se denomina a esta herramienta.
-    p.mt-4(data-aos="fade-up") La técnica de utilización busca identificar las causas principales de un problema o efecto negativo en la empresa, Luego, identifica las subcausas o variables relacionadas con las causas principales que estén contribuyendo con el problema, estas son de carácter secundario e inclusive terciario como es el caso de proveedores que infieren en la disponibilidad de materias primas, insumos o suministros. Esta herramienta es muy versátil para analizar y resolver problemas complicados, pues permite un análisis desde los factores operativos más relevantes de la empresa.
+    p.mt-4(data-aos="fade-up") La técnica de utilización busca identificar las causas principales de un problema o efecto negativo en la empresa, luego, identifica las subcausas o variables relacionadas con las causas principales que estén contribuyendo con el problema, estas son de carácter secundario e inclusive terciario como es el caso de proveedores que infieren en la disponibilidad de materias primas, insumos o suministros. Esta herramienta es muy versátil para analizar y resolver problemas complicados, pues permite un análisis desde los factores operativos más relevantes de la empresa.
 
     .titulo-sexto.color-acento-contenido.mt-5
       h5 Figura 7.
@@ -231,7 +231,7 @@
               th.p-3(style="border:0;background-color:#DAE27F;font-size:18px;") % acumulado
           tbody
             tr(style="background-color:#E8F2F6;")
-              td.p-4.ps-2.pe-2.text-center(style="border:0;border-right:1px #AFAFAF solid;font-weight:bold;color:#B17702;") Comercial
+              td.p-4.ps-2.pe-2.text-center(style="border:0;border-right:1px #AFAFAF solid;font-weight:bold;color:#B17702;") Incumplimiento
               td.p-4.ps-2.pe-2.text-center(style="border:0;border-right:1px #AFAFAF solid;color:#B17702;font-weight:bold;") 50
               td.p-4.ps-2.pe-2.text-center(style="border:0;border-right:1px #AFAFAF solid;color:#B17702;font-weight:bold;") 32,05%
               td.p-4.ps-2.pe-2.text-center(style="border:0;color:#B17702;font-weight:bold;") 32,05%
@@ -306,8 +306,8 @@
 
     .col-lg-9.m-auto.mt-5
       .titulo-sexto.color-acento-contenido
-        h5 Figura 6.
-        span Factores y variables externos.
+        h5 Figura 9.
+        span Matriz BCG - Crecimiento del producto
       ImagenInfografica.color-secundario.mt-4
         template(v-slot:imagen)
           figure
@@ -351,7 +351,7 @@
               figure
                 img(src="@/assets/curso/tema3/20.svg")
             .col-lg-9
-              p El producto 3 ubicado en el cuadrante de productos de interrogación, es quizá el producto más joven en la organización, su cuota de participación en el mercado está por debajo de lo que hace su competencia, sin embargo, las ventas demuestran un crecimiento superior al 15%, lo que deja entrever un certero producto que entrará a su fase de crecimiento y ampliación por ende de la participación en el mercado.
+              p Este producto 1 presenta un nivel de participación en el mercado alto superior al del competidor más cercano; sin embargo, presenta un nivel de crecimiento en ventas cercano al 5%, lo que deja entrever que a la empresa que oferta este producto cada vez le es más difícil conseguir mejores resultados de ventas, es decir, mayor crecimiento, esta condición hace que esté ubicado en el cuadrante de las vacas lecheras donde el deber ser del empresario es mantener su participación en el mercado y propender por aumentar el crecimiento en ventas, sino defenderlo.
         div(x="37%" y="40%" tooltip="02" numero="2")
           .row
             .col-lg-3.mb-4.mb-lg-0
@@ -365,9 +365,9 @@
               figure
                 img(src="@/assets/curso/tema3/22.svg")
             .col-lg-9
-              p Este producto 1 presenta un nivel de participación en el mercado alto superior al del competidor más cercano; sin embargo, presenta un nivel de crecimiento en ventas cercano al 5%, lo que deja entrever que a la empresa que oferta este producto cada vez le es más difícil conseguir mejores resultados de ventas, es decir, mayor crecimiento, esta condición hace que esté ubicado en el cuadrante de las vacas lecheras donde el deber ser del empresario es mantener su participación en el mercado y propender por aumentar el crecimiento en ventas, sino defenderlo.
+              p El producto 3 ubicado en el cuadrante de productos de interrogación, es quizá el producto más joven en la organización, su cuota de participación en el mercado está por debajo de lo que hace su competencia, sin embargo, las ventas demuestran un crecimiento superior al 15%, lo que deja entrever un certero producto que entrará a su fase de crecimiento y ampliación por ende de la participación en el mercado.
 
-    p.mt-5(data-aos="fade-up") A partir de la ubicación de estos productos del portafolio de la empresa, se deben establecer las medidas estratégicas para el sostenimiento, ampliación y defensa de estos productos, de continuar siendo atractivos y rentables para la empresa. En caso del ejemplo es evidente que los 3 productos deben continuar y que en especial los productos 2 y 3 deben ser tratados con acciones que les permita continuar su desarrollo y crecimiento, mientras que en el producto número uno las iniciativas buscarán la defensa de la participación en el mercado y la sostenibilidad del nivel de ventas en el largo plazo.
+    p.mt-5(data-aos="fade-up") A partir de la ubicación de estos productos del portafolio de la empresa, se deben establecer las medidas estratégicas para el sostenimiento, ampliación y defensa de estos productos, de continuar siendo atractivos y rentables para la empresa. En caso del ejemplo es evidente que los 3 productos deben continuar y que en especial los productos dos y tres deben ser tratados con acciones que les permita continuar su desarrollo y crecimiento, mientras que en el producto número uno las iniciativas buscarán la defensa de la participación en el mercado y la sostenibilidad del nivel de ventas en el largo plazo.
 
     .row.mt-5
       .col-auto(style="place-self:center;")
@@ -414,7 +414,7 @@
                 | Renovar el producto
               li(data-aos="fade-up")
                 i.lista-ul__vineta
-                | Retirar el producto totalmente de la oferta del portafolio y del mercado en sí.4
+                | Retirar el producto totalmente de la oferta del portafolio y del mercado en sí.
             p.mt-5 Esta decisión debe tomarla la empresa en función de las necesidades del público y de identificar si no es rescatable, ya que está en declive, lo que quiere decir que viene de grandes ventas.
           .col-lg-4
             figure
@@ -472,7 +472,6 @@
               img(src="@/assets/curso/tema1/3.svg" data-aos="fade-right")
           .col.ps-0(style="place-self:center")
             h5.mb-0(data-aos="fade-up") ¿Cuáles son los tipos de estadística?
-        p.mt-3(data-aos="fade-up" style="position:relative") ¿Cuáles son los tipos de estadística?
 
         .row.mt-4.indicador__container(style="position:relative")
           .col-lg-6.mb-5.mb-lg-0(style="position:relative")
@@ -601,7 +600,7 @@
                     td.p-4.ps-2.pe-2.text-center(style="") 10.7%
                     td.p-4.ps-2.pe-2.text-center(style="") 100.0%
 
-            p.mt-4 A partir de esta información suministrada por el gerente de las centrales de mercado, y quien resumió los promedios del número de toneladas por producto que se venden diariamente en el en el mercado en una semana cualquiera, construyó el siguiente gráfico estadístico de estratificación de frecuencias de los productos.
+            p.mt-4 A partir de esta información suministrada por el gerente de las centrales de mercado, y quien resumió los promedios del número de toneladas por producto que se venden diariamente en el mercado en una semana cualquiera, construyó el siguiente gráfico estadístico de estratificación de frecuencias de los productos.
             .titulo-sexto.color-acento-contenido.mt-4(style="position:relative")
               h5 Diagrama de estratificación del estado de cartera por ventas a clientes.
               span
@@ -637,13 +636,13 @@
                     td.p-4.ps-2.pe-2.text-center(style="") 300
                   tr(style="background-color:#fff;")
                     td.p-4.ps-2.pe-2.text-center(style="font-weight:bold;") %
-                    td.p-4.ps-2.pe-2.text-center(style="") 10.7%
-                    td.p-4.ps-2.pe-2.text-center(style="") 7.1%
-                    td.p-4.ps-2.pe-2.text-center(style="") 12.5%
-                    td.p-4.ps-2.pe-2.text-center(style="") 12.1%
-                    td.p-4.ps-2.pe-2.text-center(style="") 16.1%
-                    td.p-4.ps-2.pe-2.text-center(style="") 21.4%
-                    td.p-4.ps-2.pe-2.text-center(style="") 20.0%
+                    td.p-4.ps-2.pe-2.text-center(style="") 18.3%
+                    td.p-4.ps-2.pe-2.text-center(style="") 6.7%
+                    td.p-4.ps-2.pe-2.text-center(style="") 23.3%
+                    td.p-4.ps-2.pe-2.text-center(style="") 16.7%
+                    td.p-4.ps-2.pe-2.text-center(style="") 13.3%
+                    td.p-4.ps-2.pe-2.text-center(style="") 21.7%
+                    td.p-4.ps-2.pe-2.text-center(style="") 100.0%
 
             p.mt-4 En este caso, la variable continua es el tiempo (meses del primer semestre), entonces, el gerente del restaurante puede identificar el comportamiento de ventas mensual en el semestre, lo que describe la estacionalidad de ingresos semestral en la empresa por ventas. Con esta información, podrá tomar decisiones sobre la disposición de caja y programación de pagos; asimismo, establecerá niveles de metas funcionales, es decir, en periodos de baja estacionalidad, la empresa podrá desarrollar actividades de capacitación o entrenamientos, ya que para su desarrollo, requiere periodos de concentración en estas actividades sin afectar la producción. De igual manera, realizará la implementación de nuevos procesos, tal como se ve para el mes de febrero.
             .titulo-sexto.color-acento-contenido.mt-4(style="position:relative")
@@ -652,7 +651,7 @@
             figure
               img(src="@/assets/curso/tema3/41.svg")
           .row.p-4(titulo="Diagramas de Pastel")
-            p Es otro esquema de representación gráfica estadística que busca descomponer una variable en sus diferentes categorías, mostrando la cantidad de frecuencia o casos, evidenciando cuanto del total corresponde cada categoría dentro de la variable. Veamos el ejemplo:
+            p Es otro esquema de representación gráfica estadística que busca descomponer una variable en sus diferentes categorías, mostrando la cantidad de frecuencia o casos, evidenciando cuánto del total corresponde a cada categoría dentro de la variable. Veamos el ejemplo:
             p.mt-4 En un  restaurante se desea conocer el comportamiento o flujo de comensales en el horario de almuerzo, para lo cual el gerente recibe de su administrador la siguiente información.
             .titulo-sexto.color-acento-contenido(style="position:relative")
               h5 Toneladas de verduras vendidas por tipo de mercado.
@@ -705,7 +704,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h5.mb-3.text-white Herramientas estadísticas básicas de la calidad de Pablo Gregori
-                  p.text-white Para alcanzar la calidad hay que alcanzar unos objetivos y valorar la consecución de los mismos, en este caso se verá en : Herramientas estadísticas básicas de la calidad de Pablo Gregor.
+                  p.text-white Para alcanzar la calidad hay que alcanzar unos objetivos y valorar la consecución de los mismos, en este caso se verá en : Herramientas estadísticas básicas de la calidad de Pablo Gregori.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www3.uji.es/~gregori/docencia/mt1021-1516/tema5-herramientas-pablo.html" target="_blank")
                     span Enlace web

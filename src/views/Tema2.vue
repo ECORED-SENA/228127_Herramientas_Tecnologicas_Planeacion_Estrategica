@@ -66,7 +66,7 @@
     Separador.mt-5
 
     .titulo-segundo
-      h2#t_2_1 2.2 Organización
+      h2#t_2_2 2.2 Organización
 
     p(data-aos="fade-up") La organización, como función del proceso administrativo, busca la adecuación de los recursos empresariales.
 

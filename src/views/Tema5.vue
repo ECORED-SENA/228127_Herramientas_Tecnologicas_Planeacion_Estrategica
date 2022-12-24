@@ -39,7 +39,7 @@
           figure
             img(src="@/assets/curso/tema5/2.svg" data-aos="fade-right" style="max-width:100px;")
         .col-lg-10.ps-0(style="place-self:center")
-          p.mb-0(data-aos="fade-up") Establece las directrices y principios básicos de calidad, así como el vocabulario de un sistema de gestión de calidad, Se encarga de definir la terminología utilizada de manera común, de tal manera que no haya diferencias de conceptos al momento de auditorías de calidad o de procesos en las empresas.
+          p.mb-0(data-aos="fade-up") Establece las directrices y principios básicos de calidad, así como el vocabulario de un sistema de gestión de calidad, se encarga de definir la terminología utilizada de manera común, de tal manera que no haya diferencias de conceptos al momento de auditorías de calidad o de procesos en las empresas.
       .row.pt-3.pb-3(style="border-top:2px #F3AB1D solid;")
         .col-lg-2.col-4.m-auto.pe-0(style="place-self:center")
           figure

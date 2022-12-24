@@ -81,7 +81,27 @@ export default {
         numero: '3',
         titulo: 'Factores y variables que impulsan las empresas',
         desarrolloContenidos: true,
-        subMenu: [],
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.1',
+            titulo: 'Factores y variables internos',
+            hash: 't_3_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.2',
+            titulo: 'Factores y variables externos',
+            hash: 't_3_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.3',
+            titulo:
+              'Herramientas para el análisis de factores y variables internos y externos',
+            hash: 't_3_3',
+          },
+        ],
       },
       {
         nombreRuta: 'tema4',
@@ -170,7 +190,7 @@ export default {
     {
       tema: 'Indicadores de gestión',
       referencia:
-        'Terreros, D. Indicadores de gestión empresarial: características y tipos.',
+        'Terreros, D. Indicadores de gestión empresarial: características, tipos y ejemplos.',
       tipo: 'Artículo',
       link: 'https://blog.hubspot.es/marketing/indicadores-de-gestion',
     },

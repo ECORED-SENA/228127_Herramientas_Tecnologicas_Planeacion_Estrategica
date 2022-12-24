@@ -103,9 +103,9 @@
     Separador.mt-5
 
     .titulo-segundo
-      h2#t_4_2 4.2  #[em Balanced Score Card] (BSC)
+      h2#t_4_2 4.2  #[em Balanced ScoreCard] (BSC)
 
-    p(data-aos="fade-up") El #[em Balanced Score Card] es un modelo o herramienta de gestión empresarial que convierte la visión o el objetivo a más largo plazo que tiene la empresa en acciones explícitas, mediante un conjunto de indicadores de gestión divididos en cuatro categorías o perspectivas que deben regir la empresa u organización; estas perspectivas son las siguientes:
+    p(data-aos="fade-up") El #[em Balanced ScoreCard] es un modelo o herramienta de gestión empresarial que convierte la visión o el objetivo a más largo plazo que tiene la empresa en acciones explícitas, mediante un conjunto de indicadores de gestión divididos en cuatro categorías o perspectivas que deben regir la empresa u organización; estas perspectivas son las siguientes:
 
     TabsC.color-acento-botones.mt-5
       .pt-5(titulo="Financiera" style="background-color:#D9E9F1;")
@@ -154,7 +154,7 @@
 
     .titulo-sexto.color-acento-contenido.mt-5
       h5 Figura 12.
-      span Modelo de #[em Balanced Score Card] para la gestión empresarial.
+      span Modelo de #[em Balanced ScoreCard] para la gestión empresarial.
     figure.mt-4
       img(src="@/assets/curso/tema4/12.svg" data-aos="zoom-in-up")
 
@@ -175,7 +175,7 @@
               img(src="@/assets/curso/tema4/13.svg" data-aos="zoom-in-up")
           .col-lg-8
             .bloque-texto-a__texto.p-4
-              p(data-aos="fade-up") La #[strong Gestión por Procesos] es la forma de gestionar las organizaciones basándose en los procesos que desarrolla la empresa, pero ordenados como una secuencia de actividades orientadas a generar un valor añadido continuo, para lograr los resultados deseados, con lo cual es posible la satisfacción a los requerimientos técnicos y específicos que los clientes han planteado de manera mucho más eficiente y eficaz, lo que implica una concentración en los proceso propiamente dichos y no en la estructura jerárquica y de protocolos de comunicación entre áreas funcionales. 
+              p(data-aos="fade-up") La #[strong Gestión por Procesos] es la forma de gestionar las organizaciones basándose en los procesos que desarrolla la empresa, pero ordenados como una secuencia de actividades orientadas a generar un valor añadido continuo, para lograr los resultados deseados, con lo cual es posible la satisfacción a los requerimientos técnicos y específicos que los clientes han planteado de manera mucho más eficiente y eficaz, lo que implica una concentración en los procesos propiamente dichos y no en la estructura jerárquica y de protocolos de comunicación entre áreas funcionales. 
 
       p.mt-5(data-aos="fade-up") Esto es, porque la calidad de los productos o servicios como la satisfacción del cliente dependen de tales procesos, es decir, son una consecuencia del trabajo bien hecho y de una agregación adecuada y oportuna de valores por parte de la empresa. En este sentido, el modelo de gestión por procesos, requiere una estructura organizacional que parte de la clasificación de los procesos que adelanta la empresa. A esta estructura se le asignan equipos de trabajo gestionados por un líder de proceso quien coordina las actividades internas y externas con otros grupos de procesos.
 
@@ -264,13 +264,13 @@
               img(src="@/assets/curso/tema4/19.png")
         .row.p-4(titulo="Procesos misionales u operativos")
           .col-lg-8.mb-4.mb-lg-0(style="place-self:center")
-            p(data-aos="fade-up") Son aquellos que permiten recogen las necesidades de los clientes y convierten en realidad los bienes productos o servicios que oferta la empresa, por ende, son los que satisfacen las necesidades tácitamente a los clientes.
+            p(data-aos="fade-up") Son aquellos que permiten recoger las necesidades de los clientes y convierten en realidad los bienes productos o servicios que oferta la empresa, por ende, son los que satisfacen las necesidades tácitamente a los clientes.
           .col-lg-4(style="place-self:center")
             figure
               img(src="@/assets/curso/tema4/20.png")
         .row.p-4(titulo="Procesos de Apoyo")
           .col-lg-8.mb-4.mb-lg-0(style="place-self:center")
-            p(data-aos="fade-up") Son los procesos que soportan la operación de la empresa, son esenciales para su funcionamiento, así no se relacionan muchas veces con el bien producto o servicio directamente. En este tipo se encuentran los procesos de Recursos Humanos, de Sistemas y procesamiento de Información, de Compras, Almacenamiento, contabilidad, entre otros.
+            p(data-aos="fade-up") Son los procesos que soportan la operación de la empresa, son esenciales para su funcionamiento, así no se relacionan muchas veces con el bien producto o servicio directamente. En este tipo se encuentran los procesos de recursos humanos, de sistemas y procesamiento de información, de compras, almacenamiento, contabilidad, entre otros.
           .col-lg-4(style="place-self:center")
             figure
               img(src="@/assets/curso/tema4/21.png")
